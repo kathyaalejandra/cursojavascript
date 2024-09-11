@@ -6,4 +6,7 @@ let contadorI = 0;
 let contadorO = 0;
 let contadorU = 0;
 
-if (cadena)
+contadorA = contadorE = contadorI = contadorO = contadorU;
+if (cadena) {
+    
+}
