@@ -1,1 +1,1 @@
-asd
+let cadena = prompt('Ingrese una cadena de texto', '');
