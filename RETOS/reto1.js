@@ -24,7 +24,7 @@ for (let i = 0; i < cadena.length; i++){
 
 console.log('Número de veces de cada vocal: ');
 console.log(`Cantidad de a: ${contadorA}`);
-console.log(`Cantidad de a: ${contadorE}`);
-console.log(`Cantidad de a: ${contadorI}`);
-console.log(`Cantidad de a: ${contadorO}`);
-console.log(`Cantidad de a: ${contadorU}`);
+console.log(`Cantidad de e: ${contadorE}`);
+console.log(`Cantidad de i: ${contadorI}`);
+console.log(`Cantidad de o: ${contadorO}`);
+console.log(`Cantidad de u: ${contadorU}`);
