@@ -1,5 +1,6 @@
 
 //Se utilza parseFloat para reconocer que son números y no cadena de texto
+//También se puede usar parseInt para decir que son números
 let primeravariable = parseFloat(prompt ("Ingrese un número: "));
 let segundavariable = parseFloat(prompt("Ingrese otro número:"));
 
